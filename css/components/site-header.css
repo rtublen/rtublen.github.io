@@ -1,0 +1,15 @@
+.site-header {
+  display: flex;
+  padding: 20px 100px;
+  /* centrera längs cross axis (vertikalt) */
+  align-items: center;
+  gap: 10px;
+  background-color: #f1f1f1;
+  border-bottom: 1px solid darkgray;
+  margin-bottom: 20px;  
+}
+
+.site-header input {
+    border-radius: 10px;
+    padding: 10px;
+}

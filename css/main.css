@@ -1,0 +1,10 @@
+@import "components/site-header.css";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body * {
+    border: 1px solid black;
+}
