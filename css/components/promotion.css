@@ -1,0 +1,16 @@
+.promotion {
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 80px 20px;
+    font-size: 4rem; 
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.promotion span {
+    position: relative;
+    top: 70px;
+    left: 50px;
+    text-transform: uppercase;
+}
